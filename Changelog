@@ -7,3 +7,11 @@ Updated logistics system with more vehicles.
 Added Rearm and Repair Script
 	United Nations and M1083 HQ vehicles are service points.
 Mades changes to the Logistics system
+
+2-11-2016
+Added Detailed Repair Script
+	Wheeled vehicles now need Exile_Item_Carwheel to fix wheels.
+	Need Toolbox and Wrench as well.
+	Took off combat inhibitor for fixing cars.
+	Helicopters still only require scrap and duct tape.
+Optimization
