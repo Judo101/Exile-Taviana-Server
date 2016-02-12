@@ -13,5 +13,8 @@ Added Detailed Repair Script
 	Wheeled vehicles now need Exile_Item_Carwheel to fix wheels.
 	Need Toolbox and Wrench as well.
 	Took off combat inhibitor for fixing cars.
+	If a vehicle has more than 4 wheels, only four can be fixed by the script, the other four can be fixed
+		by repairing the body.
 	Helicopters still only require scrap and duct tape.
+	Heli's still need Toolbox and Wrench to fix.
 Optimization
